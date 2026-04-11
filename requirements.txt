@@ -1,0 +1,26 @@
+# Core AI & APIs
+openai
+groq
+duckduckgo-search
+
+# Voice & Audio
+SpeechRecognition
+edge-tts
+playsound==1.2.2
+sounddevice
+scipy
+numpy
+
+# OS & Automation
+AppOpener
+PyAutoGUI
+pywhatkit
+psutil
+
+# GUI & Vision
+customtkinter
+opencv-python
+Pillow
+
+# Utils
+python-dotenv
