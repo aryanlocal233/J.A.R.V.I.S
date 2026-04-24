@@ -58,7 +58,7 @@ Ensure you have Python 3.10 or higher installed on your Windows system.
 ### 2. Clone and Install
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/JARVIS.git
+git clone https://github.com/aryanlocal233/J.A.R.V.I.S.git
 cd JARVIS
 
 # Install dependencies
